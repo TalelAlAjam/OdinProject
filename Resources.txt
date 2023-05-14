@@ -1,0 +1,16 @@
+The unix shell
+https://swcarpentry.github.io/shell-novice/
+
+All things javascript
+https://javascript.info
+git commits
+https://www.conventionalcommits.org/en/v1.0.0/
+
+debugging and testing css with chrome devtools
+https://developer.chrome.com/docs/devtools/
+
+all things flexbox 
+https://www.w3.org/TR/css-flexbox-1/#flex-common
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://flexbox.malven.com
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
